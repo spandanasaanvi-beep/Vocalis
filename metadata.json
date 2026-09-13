@@ -1,0 +1,11 @@
+{
+  "name": "Vocalis - AI Communication Coaching Studio",
+  "description": "Live personal AI communication, storytelling, public speaking, and memorability coach.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
