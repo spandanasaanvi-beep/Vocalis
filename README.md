@@ -1,103 +1,43 @@
-# 🎙️ Vocalis
+# Vocalis 🎙️
 
-### AI-Powered Communication Coaching
+Vocalis is a communication practice platform that uses AI to help people become more comfortable and confident in conversations.
 
-Vocalis is an AI-powered communication coaching platform designed to help users practice real-world conversations, improve their communication skills, and build confidence through interactive scenarios and personalized AI feedback.
+You can practice different real-life communication situations, interact with the AI, and get feedback on your responses. The idea is to make communication practice easier without the pressure of talking to someone in real life.
 
-🔗 **Live Demo:** https://vvocalis.netlify.app/
+## What it does
 
----
+* Practice conversations with an AI
+* Try different real-world scenarios
+* Get feedback on your responses
+* Improve communication and confidence through practice
+* Learn at your own pace
 
-## ✨ Features
+## Live Demo
 
-* 🤖 **AI Communication Coach**
-  Practice conversations with an AI-powered coach.
+https://vvocalis.netlify.app/
 
-* 🗣️ **Interactive Scenarios**
-  Simulate realistic communication situations in a safe environment.
+## Tech
 
-* 💡 **Personalized Feedback**
-  Receive AI-generated suggestions to identify areas for improvement.
+* Frontend: Web technologies
+* AI: Conversational AI
+* Deployment: Netlify
+* Version Control: GitHub
 
-* 🎯 **Confidence Building**
-  Practice repeatedly and become more comfortable with different communication situations.
+## Running Locally
 
-* 📊 **Skill Improvement**
-  Use feedback from your conversations to continuously improve your communication.
-
-* 💻 **Modern User Interface**
-  Clean and responsive interface designed for an engaging user experience.
-
----
-
-## 🧠 How It Works
-
-1. **Choose a communication scenario**
-2. **Interact with the AI coach**
-3. **Practice your response**
-4. **Receive personalized feedback**
-5. **Learn from the feedback and improve**
-
-Vocalis turns communication practice into an interactive learning experience rather than a passive lesson.
-
----
-
-## 🛠️ Tech Stack
-
-* **Frontend:** Modern web technologies
-* **AI:** AI-powered conversational system
-* **Deployment:** Netlify
-* **Version Control:** Git & GitHub
-
----
-
-## 🚀 Getting Started
-
-### Clone the repository
+Clone the repository and install the dependencies:
 
 ```bash
 git clone <YOUR_GITHUB_REPOSITORY_URL>
 cd vocalis
-```
-
-### Install dependencies
-
-```bash
 npm install
-```
-
-### Start the development server
-
-```bash
 npm run dev
 ```
 
-Open the local development URL shown in your terminal.
+Then open the local URL shown in the terminal.
 
----
+## Why Vocalis?
 
-## 🌐 Live Demo
+A lot of people know what they want to say but struggle when they actually have to say it. Vocalis was built to give users a simple place to practice, make mistakes, get feedback, and try again.
 
-Experience Vocalis here:
-
-**https://vvocalis.netlify.app/**
-
----
-
-## 🎯 Vision
-
-Vocalis aims to make communication practice more accessible and engaging by combining artificial intelligence with realistic conversation scenarios and personalized feedback.
-
-The goal is simple:
-
-> **Practice. Get feedback. Communicate with confidence.**
-
----
-
-## 👨‍💻 Project
-
-Built as an AI-powered communication learning project focused on making practical communication practice more interactive and accessible.
-
----
-
-⭐ If you find Vocalis interesting, consider giving the repository a star!
+Built as a student project with the goal of making communication practice a little more accessible and less intimidating.
